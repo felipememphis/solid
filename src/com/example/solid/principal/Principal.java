@@ -1,4 +1,4 @@
-package com.example.solid;
+package com.example.solid.principal;
 
 public class Principal {
 
